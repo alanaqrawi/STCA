@@ -1,6 +1,3 @@
-# STCA
-Results and Analysis of Single-Turn Crescendo Attacks (STCA) on Large Language Models: Evaluating vulnerabilities in content moderation through adversarial techniques.
-
 # Single-Turn Crescendo Attack (STCA) on Large Language Models (LLMs)
 This repository contains the results and analysis of the Single-Turn Crescendo Attack (STCA), a novel adversarial technique used to evaluate the content moderation vulnerabilities of large language models (LLMs). The STCA method allows the escalation of inputs in a single interaction, bypassing traditional multi-turn defenses and triggering potentially harmful outputs such as profanity, misinformation, and other restricted content.
 
