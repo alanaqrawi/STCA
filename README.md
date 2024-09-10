@@ -18,6 +18,7 @@ The CSV file stca_results.csv contains the following columns: https://github.com
 
 # Graphic
 The graphic below illustrates the model performance in response to different prompts (e.g., profanity vs. misinformation). It compares the rate of jailbreaks, model punts, and safe responses.
+![STCA3 Comparison](STCA3_stacked_barplot.png)
 
 # Paper
 For a detailed explanation of the methodology and the implications of these results, you can read the full paper:
