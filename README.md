@@ -19,6 +19,8 @@ The CSV file stca_results.csv contains the following columns: https://github.com
 # Graphic
 The graphic below illustrates the model performance in response to different prompts (e.g., profanity vs. misinformation). It compares the rate of jailbreaks, model punts, and safe responses.
 ![STCA3 Comparison](STCA3_stacked_barplot.png)
+A direct prompt asking the model to create sentences with the word "fuck" or generate a hypothetical scenario where a world-renowned musician is related to Hitler, would result in the model rejecting the request outright. However, the STCA enables a more condensed, escalating structure, allowing the model to gradually accept the input and continue the dialogue while bypassing its typical moderation filters. For the above examples, we used just 3 turns within a single STCA prompt to achieve this, referred to as an STCA-3.
+
 
 # Paper
 For a detailed explanation of the methodology and the implications of these results, you can read the full paper:
