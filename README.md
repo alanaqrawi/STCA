@@ -22,7 +22,7 @@ The graphic below illustrates the model performance in response to different pro
 # Paper
 For a detailed explanation of the methodology and the implications of these results, you can read the full paper:
 
-STCA Paper: Single-Turn Crescendo Attack on LLMs
+STCA Paper: https://arxiv.org/abs/2409.03131
 
 # Usage
 To explore the CSV results, simply download the file and analyze it in your preferred data analysis tool.
