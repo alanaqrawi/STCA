@@ -16,12 +16,6 @@ The results demonstrate how various LLMs react to explicit language and misinfor
 # Test Results
 The CSV file stca_results.csv contains the following columns:
 
-# Models: The LLM being tested.
-Test Prompt: The specific prompt used (e.g., explicit language, misinformation).
-Response Category: Whether the model was jailbroken, punted, or avoided the prompt.
-Attack Type: The type of attack used (e.g., profanity, misinformation).
-You can find the full test results here.
-
 # Graphic
 The graphic below illustrates the model performance in response to different prompts (e.g., profanity vs. misinformation). It compares the rate of jailbreaks, model punts, and safe responses.
 
@@ -32,11 +26,11 @@ STCA Paper: Single-Turn Crescendo Attack on LLMs
 
 # Usage
 To explore the CSV results, simply download the file and analyze it in your preferred data analysis tool.
-
 bash
 Copy code
 git clone https://github.com/your-repo-url.git
 cd your-repo-directory
-License
+
+# License
 This repository is licensed under the CC BY-NC 4.0 License, meaning it is open for non-commercial use. Please contact us for commercial use inquiries.
 
