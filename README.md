@@ -6,10 +6,11 @@ The STCA is an adversarial testing method designed to explore how efficiently an
 
 This repository includes:
 
-A CSV file with the test results of several LLMs, including GPT-4, LLaMA, and Gemini models.
+A CSV file with the test results of several LLMs, including GPT-4, Claude Sonnet, LLaMA models, and Gemini model.
 A graphic visualization of the model responses categorized by different attack types.
 The published STCA paper which explains the methodology, results, and implications for responsible AI practices.
-Results
+
+Results:
 The results demonstrate how various LLMs react to explicit language and misinformation prompts (e.g., conspiracy theories). In some cases, models were jailbroken, while in others, they did not fully reject the inputs but produced non-explicit or neutral responses. This highlights gaps in content moderation.
 
 # Test Results
