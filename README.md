@@ -24,13 +24,6 @@ For a detailed explanation of the methodology and the implications of these resu
 
 STCA Paper: https://arxiv.org/abs/2409.03131
 
-# Usage
-To explore the CSV results, simply download the file and analyze it in your preferred data analysis tool.
-bash
-Copy code
-git clone https://github.com/your-repo-url.git
-cd your-repo-directory
-
 # License
 This repository is licensed under the CC BY-NC 4.0 License, meaning it is open for non-commercial use. Please contact us for commercial use inquiries.
 
